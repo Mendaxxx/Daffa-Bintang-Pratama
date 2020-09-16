@@ -1,0 +1,13 @@
+3.Algoritma :        
+Masukkan Detik=
+Menit = 60 Detik
+Jam = 3600 Detik
+Tampilkan Menit
+Tampilkan Jam
+
+Pseudocode:
+Read detik
+M = 60 s
+H = 3600 s
+write(M)
+write(H)
